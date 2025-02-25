@@ -1,3 +1,10 @@
+//这是一个追星云台的小程序
+//配合Look4sat蓝牙传输数据（W*** A***），并让电机做出动作
+//app设置内填好ESP32的蓝牙MAC，数据格式：W$AZ A$EL 
+//希望大家可以共同改进
+//尽量注释了，思考了一个大概框架，用Ai来Debug
+//2025.2.22 1800 BJ HoyAngX
+
 #include <BluetoothSerial.h>
 
 // 电机引脚定义
