@@ -4,7 +4,6 @@ SatTracker_ver1.4.2
 这是一个追星云台的小程序  
 
 ![image](https://github.com/HoyAnGx/SatTracker/blob/main/SatTracker.gif)
-![image](https://github.com/FengziXiao/JxyDatePicker/blob/master/1340843-a76f1e1788c0684f.gif)
 
 配合Look4sat蓝牙传输数据（W*** A***），并让电机做出动作  
 
